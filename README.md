@@ -1,6 +1,6 @@
 # Angular Child Routing Example
 
-This appication is for how to manage `Child Routing` in angular.\
+This application is for how to manage `Child Routing` in angular.\
 The Angular Router(`RouterModule`) is what makes an Angular Application a Single Page Application
 
 ### 1 Child Routing 
@@ -47,7 +47,7 @@ This configuration means :
 
 #### 1.2 For Sub Child Routing :
 
-Add `<router-outler>` to every parent component which has configured children to make hirarcical sub child routing and after that
+Add `<router-outler>` to every parent component which has configured children to make hierarchical sub child routing and after that
 
 - If you navigate to `/customer/list` then the Customer List component gets displayed
 - If you navigate to `/customer/detail/1/Lastman` then the Manage Customer component gets displayed
